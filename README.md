@@ -1,4 +1,4 @@
-# 🌱 Green ER Consumption Project
+## Green ER Consumption Project
 
 ## 📘 Project Description
 
@@ -88,7 +88,7 @@ The application is built in **Java** and uses the **JFreeChart** library to gene
 ## 🖼️ Application Screenshots
 
 ![image](https://github.com/user-attachments/assets/ce243f90-7cff-4e2f-96f7-301dad36b940)
-![image](https://github.com/user-attachments/assets/38f95031-01a4-42b2-956b-b3abd13bdba6)
+![image](https://github.com/user-attachments/assets/77d6375e-8d0f-4528-bb03-7459e238fbe8)
 
 ---
 
